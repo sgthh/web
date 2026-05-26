@@ -9,8 +9,8 @@ web前端学习
 
 #### 安装教程
 
-1.  ​rtdfygh
-2.  xxxx
+1.  rtdfygh
+2.  xhuiAF
 3.  xxxx
 
 #### 使用说明
